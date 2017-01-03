@@ -1,5 +1,5 @@
 # EliScript
-Various usefull scripts
+Various usefull scripts mostly writed in Python 3
 
 
 # TODO
