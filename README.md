@@ -3,7 +3,8 @@ Various usefull scripts mostly writed in Python 3
 
 
 # TODO
-1. mvvmGenIOS.py - Script to create MVVM files for iOS project #WIP
+1. mvvmGenIOS.py - Script to create MVVM files for iOS projects #WIP
+2. mvvmGenAndroid.py - Script to create MVVM files for Android projects #WIP
 
 
 # Ressources
